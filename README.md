@@ -19,11 +19,7 @@ Passionate about building **scalable applications** and continuously learning ne
 ## 💻 Tech Stack
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,js,python,java,kotlin" height="50" />
 
 ### Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -48,20 +44,6 @@ Passionate about building **scalable applications** and continuously learning ne
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-💻 Tech Stack
-Languages
-<img src="https://skillicons.dev/icons?i=php,js,python,java,kotlin" height="50" />
-Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,dotnet" height="50" />
-Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="50" />
-Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" height="50" />
-Tools & DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postman" height="50" />
 
 ---
 
