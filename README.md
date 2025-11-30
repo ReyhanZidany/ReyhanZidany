@@ -1,25 +1,31 @@
-# Hi there! I'm Reyhan Zidany Jovianto
+# 👋 Hi, I'm Reyhan Zidany Jovianto
 
-**Backend Developer | Full-Stack Engineer | Jakarta, Indonesia**
+**Backend Developer • Full-Stack Engineer**  
+📍 Jakarta, Indonesia
 
 ---
 
 ## 🚀 About Me
-Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **backend engineer**, and **enterprise IT infrastructure**. 
 
-Passionate about building **scalable applications** and continuously learning new technologies. Currently focused on backend development with .NET, Go, and SpringBoot to meet market demands.
+Computer Engineering student at **Diponegoro University** with hands-on experience in backend engineering, full-stack development, and enterprise IT infrastructure.
 
-**Location:** Jakarta, Indonesia  
-**Education:** Diponegoro University - Computer Engineering
-**LinkedIn:** [Reyhan Zidany Jovianto](https://linkedin.com/in/reyhanzidanyjovianto)  
-**Email:** reyzidan23@gmail.com
+I'm passionate about building **scalable, efficient, and production-ready systems**. Currently deepening expertise in **.NET, Go, and Spring Boot** to meet modern industry demands.
+
+- 🎓 **Education:** Computer Engineering
+- 💼 **Experience:** 3+ internships across full-stack, mobile, and IT infrastructure
+- 🏆 **Achievement:** Built production systems serving 500+ daily users
+- 📧 **Email:** [reyzidan23@gmail.com](mailto:reyzidan23@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=php,js,python,java,kotlin" height="50" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -38,6 +44,7 @@ Passionate about building **scalable applications** and continuously learning ne
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,44 +54,30 @@ Passionate about building **scalable applications** and continuously learning ne
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Training
 
-**Certifications:**
-- Bangkit Mobile Development Cohort (Google, GoTo, Traveloka)
-- Oracle Database Design & Foundation
-- Cisco CCNA: Introduction to Networks
-- Python for Software Development
-- Multiple Dicoding courses (Git, Kotlin, Android, AI, Machine Learning)
-
----
-
-## 🌟 Skills Highlights
-
-| Category | Skills |
-|----------|--------|
-| **Backend Development** | Laravel, Node.js, Express, SpringBoot, .NET |
-| **Frontend Development** | React, Tailwind CSS, HTML5, CSS3, JavaScript |
-| **Databases** | MySQL, PostgreSQL, Oracle, Firebase |
-| **Mobile Development** | Android (Kotlin), Firebase, MVVM Architecture |
-| **DevOps & Tools** | Docker, Git, Linux, Postman, Zabbix, VMware |
-| **Soft Skills** | Team Leadership, Problem-Solving, Time Management, Communication |
+- **Bangkit Academy** – Mobile Development (Google, GoTo, Traveloka)
+- **Oracle** – Database Design & Foundations
+- **Cisco** – CCNA: Introduction to Networks
+- **Python** – Software Development
+- **Dicoding** – Kotlin, Git, Android, Machine Learning, AI Basics
 
 ---
 
+## 📞 Let's Connect
 
-## 📞 Let's Connect!
+I'm always open to collaborating on interesting projects and discussing technology!
 
-I'm always open to collaborating on interesting projects and discussing tech ideas.
-
-LinkedIn
-<a href="https://linkedin.com/in/reyhanzidanyjovianto" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" style="vertical-align:middle; margin-right:8px;" /> linkedin.com/in/reyhanzidanyjovianto </a>
-Email
-<a href="mailto:reyzidan23@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" style="vertical-align:middle; margin-right:8px;" /> reyzidan23@gmail.com </a>
-GitHub
-<a href="https://github.com/ReyhanZidany" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="vertical-align:middle; margin-right:8px;" /> github.com/ReyhanZidany </a>
-
-📍 Jakarta, Indonesia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhanzidanyjovianto)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReyhanZidany)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyzidan23@gmail.com)
 
 ---
 
-Last updated: November 2025
+## 📍 Location
+
+Jakarta, Indonesia
+
+---
+
+**Last updated:** November 2025
