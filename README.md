@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Reyhan Zidany Jovianto
+# Hi there! I'm Reyhan Zidany Jovianto
 
 **Backend Developer | Full-Stack Engineer | Jakarta, Indonesia**
 
 ---
 
 ## 🚀 About Me
-Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **mobile app development**, and **enterprise IT infrastructure**. 
+Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **backend engineer**, and **enterprise IT infrastructure**. 
 
 Passionate about building **scalable applications** and continuously learning new technologies. Currently focused on backend development with .NET, Go, and SpringBoot to meet market demands.
 
@@ -48,6 +48,20 @@ Passionate about building **scalable applications** and continuously learning ne
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+💻 Tech Stack
+Languages
+<img src="https://skillicons.dev/icons?i=php,js,python,java,kotlin" height="50" />
+Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,dotnet" height="50" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="50" />
+Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" height="50" />
+Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman" height="50" />
 
 ---
 
