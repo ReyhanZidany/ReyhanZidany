@@ -80,10 +80,19 @@ Passionate about building **scalable applications** and continuously learning ne
 
 I'm always open to collaborating on interesting projects and discussing tech ideas.
 
-- 💼 **LinkedIn:** [Reyhan Zidany Jovianto](https://linkedin.com/in/reyhanzidanyjovianto)
-- 📧 **Email:** reyzidan23@gmail.com
-- 🐙 **GitHub:** [@ReyhanZidany](https://github.com/ReyhanZidany)
-- 📍 **Location:** Jakarta, Indonesia
+💼 LinkedIn:
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" style="vertical-align:middle; margin-right:6px;" />
+Reyhan Zidany Jovianto
+
+📧 Email:
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" style="vertical-align:middle; margin-right:6px;" />
+reyzidan23@gmail.com
+
+🐙 GitHub:
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="18" style="vertical-align:middle; margin-right:6px;" />
+@ReyhanZidany
+
+📍 Location: Jakarta, Indonesia
 
 ---
 
