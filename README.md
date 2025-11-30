@@ -1,11 +1,11 @@
 # Hi there! I'm Reyhan Zidany Jovianto
 
-**Backend Developer | Full-Stack Engineer | Blockchain Development**
+**Backend Developer | Full-Stack Engineer | Blockchain Developer**
 
 ---
 
 ## 🚀 About Me
-Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **mobile app development**, and **Blockchain Developer**. 
+Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **mobile app development**, and **Blockchain Development**. 
 
 Passionate about building **scalable applications** and continuously learning new technologies. Currently focused on backend development with .NET, Go, and SpringBoot to meet market demands.
 
