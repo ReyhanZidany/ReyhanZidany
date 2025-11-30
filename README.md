@@ -76,19 +76,14 @@ Passionate about building **scalable applications** and continuously learning ne
 
 I'm always open to collaborating on interesting projects and discussing tech ideas.
 
-💼 LinkedIn:
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" style="vertical-align:middle; margin-right:6px;" />
-Reyhan Zidany Jovianto
+LinkedIn
+<a href="https://linkedin.com/in/reyhanzidanyjovianto" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" style="vertical-align:middle; margin-right:8px;" /> linkedin.com/in/reyhanzidanyjovianto </a>
+Email
+<a href="mailto:reyzidan23@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" style="vertical-align:middle; margin-right:8px;" /> reyzidan23@gmail.com </a>
+GitHub
+<a href="https://github.com/ReyhanZidany" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="vertical-align:middle; margin-right:8px;" /> github.com/ReyhanZidany </a>
 
-📧 Email:
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" style="vertical-align:middle; margin-right:6px;" />
-reyzidan23@gmail.com
-
-🐙 GitHub:
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="18" style="vertical-align:middle; margin-right:6px;" />
-@ReyhanZidany
-
-📍 Location: Jakarta, Indonesia
+📍 Jakarta, Indonesia
 
 ---
 
