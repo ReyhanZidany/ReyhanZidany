@@ -9,11 +9,6 @@ Computer Engineering student at Diponegoro University with hands-on experience i
 
 Passionate about building **scalable applications** and continuously learning new technologies. Currently focused on backend development with .NET, Go, and SpringBoot to meet market demands.
 
-**Location:** Jakarta, Indonesia  
-**Education:** Diponegoro University - Computer Engineering  
-**LinkedIn:** [Reyhan Zidany Jovianto](https://linkedin.com/in/reyhanzidanyjovianto)  
-**Email:** reyzidan23@gmail.com
-
 ---
 
 ## 💻 Tech Stack
