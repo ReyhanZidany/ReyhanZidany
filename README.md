@@ -1,6 +1,6 @@
 # Hi there! I'm Reyhan Zidany Jovianto
 
-**Backend Developer | Full-Stack Engineer | Blockchain Developer**
+**Backend Developer | Full-Stack Engineer | Blockchain Development**
 
 ---
 
