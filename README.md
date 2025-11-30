@@ -1,16 +1,16 @@
-# Hi there! 👋 I'm Reyhan Zidany Jovianto
+# Hi there! I'm Reyhan Zidany Jovianto
 
-**Backend Developer | Full-Stack Engineer | Jakarta, Indonesia**
+**Backend Developer | Full-Stack Engineer | Blockchain Developer**
 
 ---
 
 ## 🚀 About Me
-Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **Backend Engineer**, and **Blockchain Developer**. 
+Computer Engineering student at Diponegoro University with hands-on experience in **fullstack web development**, **mobile app development**, and **Blockchain Developer**. 
 
 Passionate about building **scalable applications** and continuously learning new technologies. Currently focused on backend development with .NET, Go, and SpringBoot to meet market demands.
 
 **Location:** Jakarta, Indonesia  
-**Education:** Diponegoro University - Computer Engineering
+**Education:** Diponegoro University - Computer Engineering  
 **LinkedIn:** [Reyhan Zidany Jovianto](https://linkedin.com/in/reyhanzidanyjovianto)  
 **Email:** reyzidan23@gmail.com
 
@@ -37,6 +37,9 @@ Passionate about building **scalable applications** and continuously learning ne
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Blockchain
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3DC4?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -71,19 +74,24 @@ Passionate about building **scalable applications** and continuously learning ne
 | **Databases** | MySQL, PostgreSQL, Oracle, Firebase |
 | **Mobile Development** | Android (Kotlin), Firebase, MVVM Architecture |
 | **DevOps & Tools** | Docker, Git, Linux, Postman, Zabbix, VMware |
+| **Blockchain** | Hyperledger Fabric, Smart Contracts, Chaincode, Network Architecture |
 | **Soft Skills** | Team Leadership, Problem-Solving, Time Management, Communication |
 
 ---
 
+## 📞 Let's Connect
 
-## 📞 Let's Connect!
-
-I'm always open to collaborating on interesting projects and discussing tech ideas.
+I'm always open to collaborating on interesting projects and discussing technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhanzidanyjovianto)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReyhanZidany)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyzidan23@gmail.com)
-📍 **Location:** Jakarta, Indonesia
+
+---
+
+## 📍 Location
+
+Jakarta, Indonesia
 
 ---
 
