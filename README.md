@@ -1,4 +1,4 @@
-# Hi there! I'm Reyhan Zidany Jovianto
+# Helloooo! I'm Reyhan Zidany Jovianto
 
 **Backend Developer | Full-Stack Engineer | Blockchain Developer**
 
@@ -46,31 +46,6 @@ Passionate about building **scalable applications** and continuously learning ne
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🎓 Certifications
-
-**Certifications:**
-- Bangkit Mobile Development Cohort (Google, GoTo, Traveloka)
-- Oracle Database Design & Foundation
-- Cisco CCNA: Introduction to Networks
-- Python for Software Development
-- Multiple Dicoding courses (Git, Kotlin, Android, AI, Machine Learning)
-
----
-
-## 🌟 Skills Highlights
-
-| Category | Skills |
-|----------|--------|
-| **Backend Development** | Laravel, Node.js, Express, SpringBoot, .NET |
-| **Frontend Development** | React, Tailwind CSS, HTML5, CSS3, JavaScript |
-| **Databases** | MySQL, PostgreSQL, Oracle, Firebase |
-| **Mobile Development** | Android (Kotlin), Firebase, MVVM Architecture |
-| **DevOps & Tools** | Docker, Git, Linux, Postman, Zabbix, VMware |
-| **Blockchain** | Hyperledger Fabric, Smart Contracts, Chaincode, Network Architecture |
-| **Soft Skills** | Team Leadership, Problem-Solving, Time Management, Communication |
 
 ---
 
