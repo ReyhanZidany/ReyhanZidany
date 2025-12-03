@@ -65,4 +65,4 @@ Jakarta, Indonesia
 
 ---
 
-Last updated: November 2025
+Last updated: December 2025
