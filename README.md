@@ -5,7 +5,7 @@
 ---
 
 ## ☝️ About Me
-Computer Engineering student at Diponegoro University with hands-on experience in **fullstack development**, **Software Engingeer**, and **Blockchain Development**. 
+Computer Engineering student at Diponegoro University with hands-on experience in **fullstack development**, **Software Engineering**, and **Blockchain Development**. 
 
 I love building scalable applications and exploring new technologies. There's always something new to learn in this field, which honestly keeps things interesting.
 Currently diving deeper into backend development to round out my skill set. Always open to connecting with fellow developers and learning from the community!
