@@ -5,7 +5,7 @@
 ---
 
 ## ☝️ About Me
-Computer Engineering student at Diponegoro University with hands-on experience in **fullstack development**, **Software Engineering**, and **Blockchain Development**. 
+Computer Engineering student at Diponegoro University with hands-on experience in fullstack development, Software Engineering, and Blockchain Development. 
 
 I love building applications and exploring new technologies. There's always something new to learn in this field, which honestly keeps things interesting.
 Always open to connecting with fellow developers and learning from the community!
@@ -52,7 +52,7 @@ Always open to connecting with fellow developers and learning from the community
 
 ## 📞 Let's Connect
 
-I'm always open to collaborating on interesting projects and discussing technology!
+Always open to collaborating on interesting projects and discussing technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhanzidanyjovianto)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReyhanZidany)
