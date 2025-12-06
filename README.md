@@ -1,18 +1,14 @@
 # Helloooo! I'm Reyhan Zidany Jovianto
 
-**Fullstack Developer | Software Engineer | Blockchain Developer**
+**Software Engineer | Blockchain Developer**
 
 ---
 
-## ☝️ About Me
-Computer Engineering student at Diponegoro University with hands-on experience in fullstack development, Software Engineering, and Blockchain Development. 
-
-I love building applications and exploring new technologies. There's always something new to learn in this field, which honestly keeps things interesting.
-Always open to connecting with fellow developers and learning from the community!
+## About Me
+Computer Engineering student at Diponegoro University with experience in fullstack development and software engineering.  
+Currently focusing on blockchain development, especially building projects on Ethereum and Hyperledger Fabric.
 
 ---
-
-## 💻 Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -52,17 +48,10 @@ Always open to connecting with fellow developers and learning from the community
 
 ## 📞 Let's Connect
 
-Always open to collaborating on interesting projects and discussing technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhanzidanyjovianto)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReyhanZidany)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyzidan23@gmail.com)
-
----
-
-## 📍 Location
-
-Jakarta, Indonesia
 
 ---
 
