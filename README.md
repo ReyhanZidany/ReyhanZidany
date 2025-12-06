@@ -39,9 +39,20 @@ Currently focusing on blockchain development, especially building projects on Et
 
   <br/>
 
-  <!-- Blockchain -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hyperledger/hyperledger-original.svg" width="45" height="45"/>
+### ⛓️ Blockchain
+
+<p align="left">
+
+  <!-- Ethereum (Devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" 
+       width="45" height="45" />
+
+  <!-- Hyperledger Fabric (Official Logo SVG) -->
+  <img src="https://raw.githubusercontent.com/hyperledger/fabric/master/docs/source/images/hyperledger_fabric_logo_color.svg" 
+       width="55" height="45" />
+
+</p>
+
 
   <br/>
 
