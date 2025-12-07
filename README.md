@@ -35,7 +35,15 @@ const reyhan = {
 ---
 
 ## 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReyhanZidany&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyhanZidany&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyhanZidany&theme=tokyonight" alt="GitHub Streak"/> </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=ReyhanZidany&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=ReyhanZidany&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com? user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
 ## 💻 Tech Stack
 ## Languages
@@ -60,4 +68,4 @@ const reyhan = {
 </p>
 
 ## 🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg"> </picture> <div align="center"> <img src="https://komarev.com/ghpvc/?username=ReyhanZidany&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <div align="center"> <h3>💙 Thanks for visiting! Let's build something amazing together 🚀</h3> </div> <div align="center"> <sub>Last updated: December 2025 | Made with ❤️ by Reyhan Zidany</sub> </div> ```
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg"> </picture> <div align="center"> <img src="https://komarev.com/ghpvc/?username=ReyhanZidany&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <div align="center"> <h3>💙 Thanks for visiting! Let's build something amazing together 🚀</h3> </div> <div align="center"> <sub>Last updated: December 2025 |</sub> </div>
