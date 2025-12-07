@@ -13,26 +13,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-```javascript
-const reyhan = {
-  code: ["JavaScript", "PHP", "Python", "Java", "Kotlin", "Solidity"],
-  technologies: {
-    blockchain: {
-      platforms: ["Ethereum", "Hyperledger Fabric"],
-      tools: ["Smart Contracts", "Chaincode", "Web3. js", "Ethers.js"],
-      projects: ["ChainCarbon - Carbon Credit Marketplace"]
-    },
-    backend: ["Node.js", "Express", "Laravel", "Spring Boot", ".NET"],
-    frontend: ["React", "TailwindCSS", "HTML5", "CSS3"],
-    databases: ["MySQL", "PostgreSQL", "CouchDB", "Firebase"],
-    devops: ["Docker", "Git", "Linux"]
-  },
-  currentFocus: "Building decentralized applications on Hyperledger Fabric",
-  funFact: "I turn coffee into blockchain solutions ☕️ → 🔗"
-};
-
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReyhanZidany&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats. vercel.app/api/top-langs/?username=ReyhanZidany&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats. herokuapp.com/?user=ReyhanZidany&theme=tokyonight" alt="GitHub Streak"/> </div>
 💻 Tech Stack
