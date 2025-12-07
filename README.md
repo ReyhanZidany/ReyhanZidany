@@ -34,7 +34,8 @@ const reyhan = {
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyhanZidany&theme=tokyonight"/>
-</div>  
+</div>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -97,4 +98,4 @@ const reyhan = {
 
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>  
-<div align="center"> <h3>💙 Thanks for visiting! Let's build something amazing together 🚀</h3> </div> <div align="center"> <sub>Last updated: December 2025 |</sub> </div>
+<div align="center"> <sub>Last updated: December 2025 |</sub> </div>
