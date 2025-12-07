@@ -48,10 +48,6 @@ const reyhan = {
   <img src="https://streak-stats.demolab.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReyhanZidany&theme=tokyonight&utcOffset=7" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReyhanZidany&theme=tokyonight" height="180em"/>
-</div>
 
 ## 💻 Tech Stack
 ## Languages
