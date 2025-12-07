@@ -11,7 +11,6 @@
   <a href="https://github.com/ReyhanZidany"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 ## 🙋‍♂️ About Me
 
 ```javascript
@@ -30,13 +29,12 @@ const reyhan = {
   currentFocus: "Building decentralized Web3 applications",
 };
 ```
----
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyhanZidany&theme=tokyonight"/>
-</div>
+</div>  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -98,12 +96,5 @@ const reyhan = {
 </p>
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReyhanZidany&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-## 🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg"> </picture> <div align="center"> <img src="https://komarev.com/ghpvc/?username=ReyhanZidany&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> </div> <div align="center"> <h3>💙 Thanks for visiting! Let's build something amazing together 🚀</h3> </div> <div align="center"> <sub>Last updated: December 2025 |</sub> </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>  
+<div align="center"> <h3>💙 Thanks for visiting! Let's build something amazing together 🚀</h3> </div> <div align="center"> <sub>Last updated: December 2025 |</sub> </div>
