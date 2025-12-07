@@ -33,16 +33,24 @@ const reyhan = {
 };
 ```
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=ReyhanZidany&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=ReyhanZidany&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReyhanZidany&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyhanZidany&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReyhanZidany&theme=tokyonight&utcOffset=7" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReyhanZidany&theme=tokyonight" height="180em"/>
 </div>
 
 ## 💻 Tech Stack
