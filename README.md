@@ -38,11 +38,11 @@ const reyhan = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api? username=ReyhanZidany&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=ReyhanZidany&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=ReyhanZidany&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com? user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ## 💻 Tech Stack
