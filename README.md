@@ -31,8 +31,8 @@ const reyhan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyhanZidany&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyhanZidany&theme=tokyonight"/>
 </div>
 <br>
 
