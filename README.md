@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Computer Engineering Student at Diponegoro University</h3>
-<h4 align="center">Passionate about Fullstack Development & Blockchain Technology</h4>
+<h4 align="center">Passionate about Fullstack Web Development & Blockchain Technology</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/reyhanzidanyjovianto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,15 +15,14 @@
 
 ```javascript
 const reyhan = {
-  code: ["JavaScript", "PHP", "Python", "Java", "Kotlin"],
+  code: ["JavaScript", "PHP", "Python", "Java"],
   technologies: {
     blockchain: {
-      platforms: ["Ethereum", "Hyperledger Fabric"]
+      platforms: ["Hyperledger Fabric"]
     },
-    backend: ["Node.js", "Express", "Laravel", "SpringBoot", ".NET"],
-    frontend: ["React", "TailwindCSS", "HTML5", "CSS3"],
-    databases: ["MySQL", "PostgreSQL", "CouchDB", "Firebase"],
-    devops: ["Docker", "Git", "Linux"]
+    backend: ["Node.js", "Express", "Laravel", "SpringBoot"],
+    frontend: ["React", "TailwindCSS"],
+    databases: ["MySQL", "PostgreSQL", "CouchDB"]
   },
   currentFocus: "Building decentralized Web3 applications",
 };
