@@ -15,7 +15,7 @@
 
 ```javascript
 const reyhan = {
-  code: ["JavaScript", "PHP", "Python", "Java"],
+  code: ["JavaScript", "PHP", "Python", "Java", "Ruby"],
   technologies: {
     blockchain: {
       platforms: ["Hyperledger Fabric"]
