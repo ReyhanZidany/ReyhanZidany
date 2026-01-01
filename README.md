@@ -15,7 +15,7 @@
 
 ```javascript
 const reyhan = {
-  code: ["JavaScript", "PHP", "Python", "Java", "Ruby"],
+  code: ["JavaScript", "PHP", "Python", "Java", "Typescript", "Ruby"],
   technologies: {
     blockchain: {
       platforms: ["Hyperledger Fabric"]
@@ -24,7 +24,6 @@ const reyhan = {
     frontend: ["React", "TailwindCSS"],
     databases: ["MySQL", "PostgreSQL", "CouchDB"]
   },
-  currentFocus: "Building decentralized Web3 applications",
 };
 ```
 ## 📊 GitHub Stats
