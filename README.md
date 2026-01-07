@@ -18,7 +18,7 @@ const reyhan = {
   code: ["JavaScript", "PHP", "Python", "Java", "Typescript", "Ruby"],
   technologies: {
     blockchain: {
-      platforms: ["Hyperledger Fabric"]
+      platforms: ["Hyperledger Fabric", "Ethereum"]
     },
     backend: ["Node.js", "Express", "Laravel", "SpringBoot"],
     frontend: ["React", "TailwindCSS"],
