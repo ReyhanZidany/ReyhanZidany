@@ -120,7 +120,6 @@ contract ReyhanZidany {
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 </p>
-```
 
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>
@@ -129,7 +128,6 @@ contract ReyhanZidany {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ReyhanZidany&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
----
 
 <div align="center">
   <sub> Built with ❤️</sub>
