@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BC5&center=true&vCenter=true&width=940&lines=GM+I'm+Reyhan+Zidany+Jovianto;Blockchain+Developer+%7C+Web3+Builder;Decentralizing+the+Future" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Web3%20Developer&fontSize=50&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BC5&center=true&vCenter=true&width=940&lines=GM+👋+I'm+Reyhan+Zidany+Jovianto;Blockchain+Developer+%7C+Web3+Builder;Decentralizing+the+Future+🌐✨;WAGMI+%7C+BUIDL+%7C+Trustless+Code" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Computer Engineering Student @ Diponegoro University</h3>
@@ -15,6 +19,14 @@
   <img src="https://komarev.com/ghpvc/?username=ReyhanZidany&label=Profile%20views&color=ff6bc5&style=for-the-badge" alt="profile views" />
 </div>
 
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🔐 Cryptographic Hash of My Identity                                ║
+║  0x52657968616e5a6964616e794a6f7669616e746f                          ║
+║  ⛓️  Building trustless systems, one block at a time                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
 ## 🚀 About Me
 
 ```solidity
@@ -29,7 +41,7 @@ contract ReyhanZidany {
         string[] backend;
         string[] frontend;
         string[] databases;
-        string passion;
+        bytes32 passionHash; 
     }
     
     Developer public me = Developer({
@@ -38,15 +50,18 @@ contract ReyhanZidany {
         web3Stack: ["Wagmi", "Ethers.js", "Web3.js", "Hardhat", "Foundry"],
         backend: ["Node.js", "Express", "Next.js", "Laravel", "SpringBoot"],
         frontend: ["React", "Next.js", "TailwindCSS", "Vite"],
-        databases: ["MySQL", "PostgreSQL", "CouchDB", "MongoDB"],
-        passion: "Building decentralized applications that empower users"
+        databases: ["MySQL", "PostgreSQL", "CouchDB", "MongoDB"]
     });
-    
-    function getCurrentFocus() public pure returns (string memory) {
-        return "Smart Contracts, DeFi, and Web3 Infrastructure";
-    }
 }
 ```
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📊 GitHub Stats
 
@@ -130,11 +145,17 @@ contract ReyhanZidany {
 </div>
 
 <div align="center">
-  <sub> Built with ❤️</sub>
-  <br>
+  
+### 🔗 Blockchain Explorer
+
+```
+Block Height: ∞ | Gas Price: WAGMI | Network: Mainnet Life
+```
+
+  <sub> Built with ❤️ </sub>
   <sub>Last updated: January 2026</sub>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+</di
