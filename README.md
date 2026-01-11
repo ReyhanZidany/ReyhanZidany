@@ -42,7 +42,6 @@ contract ReyhanZidany {
     });
 }
 ```
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg">
@@ -131,14 +130,9 @@ contract ReyhanZidany {
 </div>
 
 <div align="center">
-  
-### 🔗 Blockchain Explorer
-
-```
-Block Height: ∞ | Gas Price: WAGMI | Network: Mainnet Life
-```
 
   <sub> Built with ❤️ </sub>
+  <br>
   <sub>Last updated: January 2026</sub>
 </div>
 
