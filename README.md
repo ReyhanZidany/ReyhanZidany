@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BC5&center=true&vCenter=true&width=940&lines=GM+%F0%9F%91%8B+I'm+Reyhan+Zidany+Jovianto;Blockchain+Developer+%7C+Web3+Builder;Decentralizing+the+Future+%F0%9F%8C%90%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BC5&center=true&vCenter=true&width=940&lines=GM+I'm+Reyhan+Zidany+Jovianto;Blockchain+Developer+%7C+Web3+Builder;Decentralizing+the+Future" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Computer Engineering Student @ Diponegoro University</h3>
