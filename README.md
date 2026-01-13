@@ -29,7 +29,6 @@ contract ReyhanZidany {
         string[] backend;
         string[] frontend;
         string[] databases;
-        bytes32 passionHash; 
     }
     
     Developer public me = Developer({
@@ -71,7 +70,6 @@ contract ReyhanZidany {
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Smart%20Contracts-121D33?style=for-the-badge&logo=ethereum&logoColor=white"/>
 </p>
 
 ### 💬 Languages
@@ -108,7 +106,6 @@ contract ReyhanZidany {
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apache-couchdb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & DevOps
