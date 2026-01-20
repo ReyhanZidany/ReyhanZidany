@@ -36,8 +36,8 @@ contract ReyhanZidany {
         blockchainPlatforms: ["Hyperledger Fabric", "Ethereum", "Polygon"],
         web3Stack: ["Wagmi", "Ethers.js", "Web3.js", "Hardhat", "Foundry"],
         backend: ["Node.js", "Express", "Next.js", "Laravel", "SpringBoot"],
-        frontend: ["React", "Next.js", "TailwindCSS", "Vite"],
-        databases: ["MySQL", "PostgreSQL", "CouchDB", "MongoDB"]
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        databases: ["MySQL", "PostgreSQL", "CouchDB"]
     });
 }
 ```
@@ -121,10 +121,6 @@ contract ReyhanZidany {
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReyhanZidany&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
 
 <div align="center">
 
