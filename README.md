@@ -46,6 +46,7 @@ contract ReyhanZidany {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
 
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
@@ -57,6 +58,7 @@ contract ReyhanZidany {
   <img src="https://streak-stats.demolab.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
+---
 
 ### 🔗 Blockchain & Web3
 <p>
@@ -114,6 +116,8 @@ contract ReyhanZidany {
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 </p>
+
+---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>
 
