@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=ReyhanZidany&label=Profile%20views&color=ff6bc5&style=for-the-badge" alt="profile views" />
 </div>
 
-## 🚀 About Me
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -46,7 +45,6 @@ contract ReyhanZidany {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyhanZidany/ReyhanZidany/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyhanZidany&theme=tokyonight"/>
@@ -58,7 +56,6 @@ contract ReyhanZidany {
   <img src="https://streak-stats.demolab.com?user=ReyhanZidany&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
-## 💻 Tech Stack
 
 ### 🔗 Blockchain & Web3
 <p>
@@ -117,9 +114,7 @@ contract ReyhanZidany {
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 </p>
 
-## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyhanZidany&theme=tokyo-night&hide_border=true" width="100%"/>
-
 
 <div align="center">
 
