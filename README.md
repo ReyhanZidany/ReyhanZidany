@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Computer Engineering Student @ Diponegoro University</h3>
-<h4 align="center">Building the Decentralized Web | Fullstack Dev | Smart Contract Engineer</h4>
+<h4 align="center">Building the Decentralized Web | Fullstack Dev | Blockchain Engineer</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/reyhanzidanyjovianto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
