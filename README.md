@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=ReyhanZidany&label=Profile%20views&color=ff6bc5&style=for-the-badge" alt="profile views" />
 </div>
 
+---
 
 ```solidity
 // SPDX-License-Identifier: MIT
