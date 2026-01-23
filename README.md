@@ -31,7 +31,7 @@ contract ReyhanZidany {
     }
     
     Developer public me = Developer({
-        languages: ["JavaScript", "TypeScript", "Solidity", "PHP", "Python", "Java", "Ruby"],
+        languages: ["JavaScript", "TypeScript", "Solidity", "PHP", "Python", "Java"],
         blockchainPlatforms: ["Hyperledger Fabric", "Ethereum", "Polygon"],
         web3Stack: ["Wagmi", "Ethers.js", "Web3.js", "Hardhat", "Foundry"],
         backend: ["Node.js", "Express", "Next.js", "Laravel", "SpringBoot"],
