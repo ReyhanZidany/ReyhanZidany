@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BC5&center=true&vCenter=true&width=940&lines=GM+👋+I'm+Reyhan+Zidany+Jovianto;Blockchain+%7C+Fullstack+Dev;Decentralizing+the+Future+🌐" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Computer Engineering Student @ Diponegoro University</h3>
+<h3 align="center">Computer Engineering Graduate @ Diponegoro University</h3>
 <h4 align="center">Building the Decentralized Web | Fullstack Dev | Blockchain Engineer</h4>
 
 <p align="center">
