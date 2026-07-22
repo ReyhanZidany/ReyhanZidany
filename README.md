@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BC5&center=true&vCenter=true&width=940&lines=GM+👋+I'm+Reyhan+Zidany+Jovianto;Blockchain+%7C+Fullstack+Dev;Decentralizing+the+Future+🌐" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Computer Engineering Graduate @ Diponegoro University</h3>
-<h4 align="center">Building the Decentralized Web | Fullstack Dev | Blockchain Engineer</h4>
+<h3 align="center">Software Engineer</h3>
+<h4 align="center">Building the Decentralized</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/reyhanzidanyjovianto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
